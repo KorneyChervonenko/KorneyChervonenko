@@ -1,4 +1,4 @@
-Hi 👋 My name is Korney Chervonenko
+Hi, My name is Korney Chervonenko
 ===================================
 
 Software Developer

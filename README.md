@@ -4,7 +4,7 @@ Hi, My name is Korney Chervonenko
 Software Developer
 ------------------
 
-Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less or SCSS)/JavaScript (some of them with React) on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko">Frontend Mentor</a>
+Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less or SCSS)/JavaScript (some of them with React) on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a>
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [pokryshkinkorney@gmail.com](mailto:pokryshkinkorney@gmail.com)

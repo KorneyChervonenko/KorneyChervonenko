@@ -4,7 +4,65 @@ Hi, My name is Korney Chervonenko
 Software Developer
 ------------------
 
-Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less or SCSS)/JavaScript (some of them with React) on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a>
+Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less or SCSS)/JavaScript (some of them with React) on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a> and took a few <details>
+  <summary>Computer Science courses</summary>
+	<ul>
+		<li>
+			Python 3 Deep Dive by Udemy
+			<details>
+				<summary>4 parts</summary>
+				<ol>
+					<li>
+						<a href="https://www.udemy.com/course/python-3-deep-dive-part-1/">Functional</a>
+					</li>
+					<li>
+						<a href="https://www.udemy.com/course/python-3-deep-dive-part-2/"
+							>Iteration, Generators</a
+						>
+					</li>
+					<li>
+						<a href="https://www.udemy.com/course/python-3-deep-dive-part-3/"
+							>Dictionaries, Sets, JSON</a
+						>
+					</li>
+					<li>
+						<a href="https://www.udemy.com/course/python-3-deep-dive-part-4/"
+							>Object Oriented Programming</a
+						>
+					</li>
+				</ol>
+			</details>
+		</li>
+		<li>
+			100 Days of Code: The Complete Python Pro Bootcamp by
+			<a href="https://www.udemy.com/course/100-days-of-code/">Udemy</a>
+		</li>
+		<li>
+			The Complete JavaScript Course: From Zero to Expert! by
+			<a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy</a>
+		</li>
+		<li>
+			Django 4 and Python Full-Stack Developer Masterclass by
+			<a
+				href="https://www.udemy.com/course/django-and-python-full-stack-developer-masterclass/"
+				>Udemy</a
+			>
+		</li>
+		<li>
+			Design Patterns in Python by
+			<a href="https://www.udemy.com/course/design-patterns-python/">Udemy</a>
+		</li>
+		<li>
+			Graph Theory Algorithms by
+			<a href="https://www.udemy.com/course/graph-theory-algorithms/">Udemy</a>
+		</li>
+		<li>Version Control with Git by EPAM</li>
+		<li>
+			The Ultimate React Course by
+			<a href="https://www.udemy.com/course/the-ultimate-react-course/">Udemy</a>
+		</li>
+	</ul>
+</details>
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [pokryshkinkorney@gmail.com](mailto:pokryshkinkorney@gmail.com)

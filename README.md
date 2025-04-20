@@ -121,7 +121,10 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 		width="36"
 		height="36"
 		alt="React Router"
-/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
+/></a>
+<a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="36" height="36" /></a>
+
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
 	><img
 		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
 		width="36"

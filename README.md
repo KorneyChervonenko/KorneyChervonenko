@@ -66,7 +66,7 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [pokryshkinkorney@gmail.com](mailto:pokryshkinkorney@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and its ecosystem
 
 ### Skills
 

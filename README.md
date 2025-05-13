@@ -11,7 +11,7 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 			Python 3 Deep Dive by Udemy
 			<details>
 				<summary>4 parts</summary>
-				<ol>
+				<ol type='1'>
 					<li>
 						<a href="https://www.udemy.com/course/python-3-deep-dive-part-1/">Functional</a>
 					</li>

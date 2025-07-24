@@ -7,6 +7,9 @@ Software Developer
 Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less, SCSS)/JavaScript on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a> working with technologies like React, React-Router, Redux, Redux-Toolkit, React Hook Form, Styled Components, TypeScript, SQL. <details>
   <summary>Computer Science courses</summary>
 	<ul>
+		<li>Advanced CSS and Sass: Flexbox, Grid, Animations and More! by <a href="https://www.udemy.com/course/advanced-css-and-sass/">Udemy</a></li>
+		<li>Understanding TypeScript by	<a href="https://www.udemy.com/course/understanding-typescript/">Udemy</a></li>
+		<li>The Complete JavaScript Course: From Zero to Expert! by <a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy</a></li>
 		<li>
 			Python 3 Deep Dive by Udemy
 			<details>
@@ -38,10 +41,6 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 			<a href="https://www.udemy.com/course/100-days-of-code/">Udemy</a>
 		</li>
 		<li>
-			The Complete JavaScript Course: From Zero to Expert! by
-			<a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy</a>
-		</li>
-		<li>
 			Django 4 and Python Full-Stack Developer Masterclass by
 			<a
 				href="https://www.udemy.com/course/django-and-python-full-stack-developer-masterclass/"
@@ -61,6 +60,7 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 			The Ultimate React Course by
 			<a href="https://www.udemy.com/course/the-ultimate-react-course/">Udemy</a>
 		</li>
+ 
 	</ul>
 </details>
 

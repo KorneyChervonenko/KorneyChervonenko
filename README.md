@@ -4,7 +4,7 @@ Hi, My name is Korney Chervonenko
 Software Developer
 ------------------
 
-Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less, SCSS)/JavaScript on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a> working with technologies like React, React-Router, Redux, Redux-Toolkit, React Hook Form, Styled Components, TypeScript, SQL. <details>
+Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less, SCSS)/JavaScript on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a> working with technologies like React, React-Router, Redux, Redux-Toolkit, React Hook Form, NextJS, Tailwind, Styled Components, TypeScript, SQL. <details>
   <summary>Computer Science courses</summary>
 	<ul>
 		<li>Advanced CSS and Sass: Flexbox, Grid, Animations and More! by <a href="https://www.udemy.com/course/advanced-css-and-sass/">Udemy</a></li>
@@ -122,8 +122,10 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 		height="36"
 		alt="React Router"
 /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="36" height="36" /></a>
-
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a>
+	
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
 	><img
 		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"

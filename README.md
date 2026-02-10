@@ -60,7 +60,6 @@ Couple years ago I found out that I like to code. Since then I have been doing i
 			The Ultimate React Course by
 			<a href="https://www.udemy.com/course/the-ultimate-react-course/">Udemy</a>
 		</li>
- 
 	</ul>
 </details>
 

@@ -136,7 +136,17 @@ I developed a high-performance **Full-Stack automation tool** to solve real-worl
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="36" height="36" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a>
-	
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" />
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/sqlite/07405E" width="36" height="36" alt="SQLite" />
+</a>
+
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
 	><img
 		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"

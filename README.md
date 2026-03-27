@@ -4,7 +4,19 @@ Hi, My name is Korney Chervonenko
 Software Developer
 ------------------
 
-Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less, SCSS)/JavaScript on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a> working with technologies like React, React-Router, Redux, Redux-Toolkit, React Hook Form, NextJS, Tailwind, Styled Components, TypeScript, SQL. <details>
+Couple years ago I found out that I like to code. Since then I have been doing it periodically for fun using Visual Studio Code. I solved above 200 missions in Python on <a href="https://py.checkio.org/user/pokryshkin">Checkio</a>, over 900 katas in Python and more than 200 katas in JavaScript on <a href="https://www.codewars.com/users/pokryshkin">Codewars</a>. Also I completed about four dozens of challenges in HTML/CSS (Less, SCSS)/JavaScript on <a href="https://www.frontendmentor.io/profile/KorneyChervonenko/solutions">Frontend Mentor</a> working with technologies like React, React-Router, Redux, Redux-Toolkit, React Hook Form, NextJS, Tailwind, Styled Components, TypeScript, SQL. 
+
+### Featured Project: [Price-List Combiner](https://price-combiner.netlify.app/)
+
+I developed a high-performance **Full-Stack automation tool** to solve real-world e-commerce challenges. It streamlines price-list processing and data synchronization for OpenCart stores (including my own project, [pokryshkin.pro](https://pokryshkin.pro)).
+
+* **Logic:** Implemented complex data mapping, custom parsing rules, and smart markup calculations.
+* **Performance:** Handles large datasets efficiently using `React-Virtualized` and a local `Node.js` server with `better-sqlite3`.
+* **Result:** Automates manual updates by generating ready-to-use Excel files or direct SQL update scripts.
+
+👉 **[Try the App](https://price-combiner.netlify.app/) | [Read the Guide](https://price-combiner.netlify.app/guide)**
+
+<details>
   <summary>Computer Science courses</summary>
 	<ul>
 		<li>Advanced CSS and Sass: Flexbox, Grid, Animations and More! by <a href="https://www.udemy.com/course/advanced-css-and-sass/">Udemy</a></li>

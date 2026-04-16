@@ -83,99 +83,29 @@ I developed a high-performance **Full-Stack automation tool** to solve real-worl
 
 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-		width="36"
-		height="36"
-		alt="JavaScript"
-/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-		width="36"
-		height="36"
-		alt="Python"
-/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-		width="36"
-		height="36"
-		alt="HTML5"
-/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-		width="36"
-		height="36"
-		alt="CSS3"
-/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-		width="36"
-		height="36"
-		alt="Sass"
-/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-		width="36"
-		height="36"
-		alt="React"
-/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
-		width="36"
-		height="36"
-		alt="Redux"
-/></a><a href="https://reactrouter.com/" target="_blank" rel="noreferrer"
-	><img
-		src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg"
-		width="36"
-		height="36"
-		alt="React Router"
-/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
-<a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="36" height="36" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a>
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/sqlite/07405E" width="36" height="36" alt="SQLite" />
-</a>
-
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-		width="36"
-		height="36"
-		alt="Vite"
-/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-		width="36"
-		height="36"
-		alt="Git"
-/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-		width="36"
-		height="36"
-		alt="VS Code"
-/></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg"
-		width="36"
-		height="36"
-		alt="Photoshop"
-/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"
-	><img
-		src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-		width="36"
-		height="36"
-		alt="Figma"
-/></a>
+  <table border="0">
+    <tr>
+      <td valign="bottom"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a></td>
+      <td valign="bottom"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a></td>
+      <td valign="bottom"><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a></td>
+      <td valign="bottom"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a></td>
+      <td valign="bottom"><a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a></td>
+      <td valign="bottom"><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass" /></a></td>
+      <td valign="bottom"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a></td>
+      <td valign="bottom"><a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux" /></a></td>
+      <td valign="bottom"><a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" width="36" height="36" alt="React Router" title="React Router" /></a></td>
+      <td valign="bottom"><a href="https://react-hook-form.com/" target="_blank"><img src="https://cdn.simpleicons.org/reacthookform/EC5959" width="36" height="36" alt="React Hook Form" title="React Hook Form" /></a></td>
+      <td valign="bottom"><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a></td>
+      <td valign="bottom"><a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" width="36" height="36" alt="Styled Components" title="Styled Components" /></a></td>
+      <td valign="bottom"><a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs" /></a></td>
+      <td valign="bottom"><a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js" title="Node.js" /></a></td>
+      <td valign="bottom"><a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" title="Express" /></a></td>
+      <td valign="bottom"><a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.simpleicons.org/sqlite/07405E" width="36" height="36" alt="SQLite" title="SQLite" /></a></td>
+      <td valign="bottom"><a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a></td>
+      <td valign="bottom"><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a></td>
+      <td valign="bottom"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a></td>
+      <td valign="bottom"><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop" /></a></td>
+      <td valign="bottom"><a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a></td>
+    </tr>
+  </table>
 </p>

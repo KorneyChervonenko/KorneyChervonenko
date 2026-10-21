@@ -19,6 +19,8 @@ I developed a high-performance **Full-Stack automation tool** to solve real-worl
 <details>
   <summary>Computer Science courses</summary>
 	<ul>
+		<li>Advanced Frontend with ReactJS by <a href="https://career.softserveinc.com/en-us/technology/course/practical-react">SoftServe Academy</a></li>
+		<li>Advanced Backend with NodeJS by <a href="https://career.softserveinc.com/en-us/technology/course/practical-nodejs">SoftServe Academy</a></li>
 		<li>Advanced CSS and Sass: Flexbox, Grid, Animations and More! by <a href="https://www.udemy.com/course/advanced-css-and-sass/">Udemy</a></li>
 		<li>Understanding TypeScript by	<a href="https://www.udemy.com/course/understanding-typescript/">Udemy</a></li>
 		<li>The Complete JavaScript Course: From Zero to Expert! by <a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy</a></li>
